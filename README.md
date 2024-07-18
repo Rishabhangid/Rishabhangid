@@ -1,6 +1,3 @@
-Here's the revised README with your name and email, and without the LinkedIn section:
-
-
 ### Hello there! I'm Rishabh Jangid
 
 Welcome to my joyful corner of the internet! I'm a passionate MERN stack developer, dedicated to creating seamless digital experiences and connecting with like-minded individuals. So grab a cup of coffee ☕ and let's chat!
