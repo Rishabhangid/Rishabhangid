@@ -1,3 +1,4 @@
+
 ### Hello there! I'm Rishabh Jangid
 
 Welcome to my joyful corner of the internet! I'm a passionate MERN stack developer, dedicated to creating seamless digital experiences and connecting with like-minded individuals. So grab a cup of coffee ☕ and let's chat!
@@ -37,6 +38,9 @@ Welcome to my joyful corner of the internet! I'm a passionate MERN stack develop
 **Database Management:**
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+**UI/UX Design:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Other Tools and Technologies:**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
